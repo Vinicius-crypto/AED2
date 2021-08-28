@@ -1,0 +1,21 @@
+ Apresentação: participantes e problema URI 1201;
+
+- A entrada receber N operações até O fim do arquivo. Dentre as 6 operações estão:
+
+- Apresentar as 6 operações;
+I n: Insere na árvore binária de pesquisa o elemento n.
+INFIXA: lista os elementos já inseridos segundo o percurso infixo
+PREFIXA: lista os elementos já inseridos segundo o percurso prefixo
+POSFIXA: lista os elementos já inseridos segundo o percurso posfixo
+P n: Pesquisa se o elemento n existe ou não na árvore.
+R n: Remove o elemento n da árvore, caso ele exista
+
+- Dentre os 6 tipos de operações, geram-se saidas para: Pesquisa e Apresentação;
+
+- Devido a isso, decidimos criar uma biblioteca e uma main. A biblioteca gereciará a árvore e a main cuidará do input e output;
+
+Agora apresentaremos 2 casos testes
+
+buscamos no  https://www.udebug.com/URI/1201
+ra no URI funcionando;
+

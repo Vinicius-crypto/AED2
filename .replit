@@ -1,0 +1,3 @@
+run = "g++ main.cpp BST.cpp -o main && ./main < input1.txt > out1.txt"
+# "g++ *.cpp -o main && ./main < input.txt > out.txt"
+# https://www.udebug.com/URI/1201
